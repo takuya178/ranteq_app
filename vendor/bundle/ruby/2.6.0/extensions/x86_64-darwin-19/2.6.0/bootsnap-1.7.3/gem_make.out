@@ -1,0 +1,15 @@
+current directory: /Users/urakamitakuya/workspace/runteq_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+/Users/urakamitakuya/.rbenv/versions/2.6.3/bin/ruby -I /Users/urakamitakuya/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210413-64542-aqmfpc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/urakamitakuya/workspace/runteq_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/urakamitakuya/workspace/runteq_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/urakamitakuya/workspace/runteq_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210413-64542-1dap0zv/bootsnap
